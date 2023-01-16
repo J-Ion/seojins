@@ -1,0 +1,2 @@
+# seojins
+seojin-lee portfolio
